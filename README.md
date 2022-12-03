@@ -15,6 +15,6 @@ You can view the code by clicking your name below, or download by hitting the **
 - [amelia](https://github.com/codemakecreate/Troop904-PaperCircuits/blob/main/tess_emily_amelia/tess_emily_amelia.ino)
 
 If anyone is interested in doing more coding from home, the desktop **Arduino IDE** is completely free and available on both Mac and PC's. You can download it [here](https://www.arduino.cc/en/software). 
-The boards themselves can be found at Micro Center and a few online shops; they shouldn't cost more then 20-30. I am happy to recommend one if anyone is interested. 
+The boards themselves can be found at Micro Center and a few online shops; they shouldn't cost more than 20-30. I am happy to recommend one if anyone is interested. 
 
 If you have any issues please don't hesitate to reach out via email at **codemakecreate@gmail.com**.  
