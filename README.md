@@ -2,7 +2,7 @@
  
 Here is the code we built to make our **paper circuts** flash on and off by sending different flows of electricty through the circut.  We used the **Arduino IDE** and uploading the code to an **Arduino Microcontroller (Uno-REV3)**. To learn more about the hardware we are using it [here](https://www.arduino.cc/en/Guide/Introduction) is a little introduction. 
 
-You can view the code by clicking your name below, or download by hitting the code button above and clicking **download zip**. 
+You can view the code by clicking your name below, or download by hitting the **green code button** above and clicking **download zip**. 
 
 - [athena](https://github.com/codemakecreate/Troop904-PaperCircuits/blob/main/athena_annabelle/athena_annabelle.ino)
 - [annabelle](https://github.com/codemakecreate/Troop904-PaperCircuits/blob/main/athena_annabelle/athena_annabelle.ino)
